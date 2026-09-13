@@ -140,14 +140,6 @@ Secret key for signing JSON Web Tokens
 JWT_SECRET=your_super_secret_jwt_key
 ```
 
-## 📞 Contact
-
-For any questions, feedback, or collaborations, feel free to reach out:
-
-*   **Harsh Mehta** - mehtah631@gmail.com
-*   **GitHub Profile:** [https://github.com/19harshmehta](https://github.com/19harshmehta)
-*   **LinkedIn:** https://www.linkedin.com/in/harsh-mehta19/
-
 ## 🙏 Acknowledgements
 
 *   Thanks to all open-source libraries and tools that made this project possible.
